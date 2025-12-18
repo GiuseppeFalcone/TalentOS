@@ -1,0 +1,18 @@
+[submodule "web-app"]
+	path = web-app
+	url = git@github.com:GiuseppeFalcone/talent-os-web-app.git
+[submodule "user-api"]
+	path = user-api
+	url = git@github.com:GiuseppeFalcone/talentos-user-api.git
+[submodule "domain-api"]
+	path = domain-api
+	url = git@github.com:GiuseppeFalcone/talentos-domain-api.git
+[submodule "bff-web-app"]
+	path = bff-web-app
+	url = git@github.com:GiuseppeFalcone/talentos-bff-web-app.git
+[submodule "commons"]
+	path = commons
+	url = git@github.com:GiuseppeFalcone/talentos-commons.git
+[submodule "curriculum-api"]
+	path = curriculum-api
+	url = git@github.com:GiuseppeFalcone/talentos-curriculum-api.git
